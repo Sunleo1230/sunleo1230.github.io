@@ -30,6 +30,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </React.StrictMode>
 );
 
+// process start
+console.clear();
 console.log(`
 ┌─────────────────────────┐
 │ 🎉 sunleo's Console 🎉 │
