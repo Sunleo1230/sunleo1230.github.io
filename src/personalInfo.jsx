@@ -13,6 +13,12 @@ export const personalInfo = {
 };// We need to fuckup zyzx.
 export const works = [
     {
+        name:"Ereader.js",
+        description:"轻量级电子阅读器",
+        link:"https://gitee.com/sunleo1230/ereader.js/",
+        lang:"JavaScript"
+    },
+    {
         name:"lovering.js",
         description:"一个轻量级JavaScript文案管理库",
         link:"https://github.com/sunleo1230/lovering",

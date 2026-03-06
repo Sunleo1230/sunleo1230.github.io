@@ -13,7 +13,7 @@ function ToSayForm() {
         };
 
         if(message.length > 1024*18) {
-            console.log('文本长度不能超过18kb');
+            console.log('文本长度不能超过18k');
             return;
         };
 

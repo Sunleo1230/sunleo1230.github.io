@@ -13,7 +13,7 @@ function FastGo() {
                     <li><a href = "#Works">作品</a></li>
                     <li><a href = "#Skills">技术栈</a></li>
                     <li><a href = "#Contact">联系我</a></li>
-                    <li><a href = "#Tosay">提建议</a></li>
+                    <li><a href = "#Form">提建议</a></li>
                 </ul>
             </nav>
         </>
